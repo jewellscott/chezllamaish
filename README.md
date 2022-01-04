@@ -18,9 +18,10 @@ A fake and small (but pretty) recipe site.
 - [X] Update all pages with an article
 - [X] Browse CSS and HTML to make sure it's all semantic
 - [ ] Fix footer/logo wrapping
-- [ ] Center top logo on small screens
-- [ ] Reduce recipe font size on small screens
+- [X] Center top logo on small screens
+- [X] Reduce recipe font size on small screens
 - [ ] Reduce recipe image size on small screens
+- [ ] Proofread recipe copy
 - [ ] Share with Discord and upload under assignments
    - [ ] Discord
    - [ ] OG Assignment
