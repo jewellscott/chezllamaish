@@ -17,7 +17,7 @@ A fake and small (but pretty) recipe site.
 - [X] Fix sticky footer
 - [X] Update all pages with an article
 - [X] Browse CSS and HTML to make sure it's all semantic
-- [ ] Fix footer/logo wrapping
+- [X] Fix footer/logo wrapping
 - [X] Center top logo on small screens
 - [X] Reduce recipe font size on small screens
 - [X] Reduce recipe image size on small screens
