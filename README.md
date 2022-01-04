@@ -8,6 +8,7 @@
 [ ] Fix sticky footer
 [ ] Update all pages with an article
 [ ] Update recipes to real Chez Llama recipes
+[ ] Browse CSS and HTML to make sure it's all semantic
 [ ] Make images on index figures? With captions?
 [ ] Add sims-related contributors lol
 [ ] Share with Discord and upload under assignments
