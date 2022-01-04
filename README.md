@@ -16,8 +16,7 @@ A fake and small (but pretty) recipe site.
       - [X] Recipe pages
 - [X] Fix sticky footer
 - [X] Update all pages with an article
-- [ ] Browse CSS and HTML to make sure it's all semantic
-- [ ] Make images on index figures? With captions?
+- [X] Browse CSS and HTML to make sure it's all semantic
 - [ ] Share with Discord and upload under assignments
    - [ ] Discord
    - [ ] OG Assignment
