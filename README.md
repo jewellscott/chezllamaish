@@ -21,3 +21,10 @@ A fake and small (but pretty) recipe site.
    - [ ] Discord
    - [ ] OG Assignment
    - [ ] Refactor
+- [ ] Fix deployment issues
+   - [ ] Fix CSS linkeage on all pages
+      - [X] Index
+      - [ ] Recipe pages
+   - [ ] Fix image/asset links 
+      - [X] Index
+      - [ ] Recipe pages
