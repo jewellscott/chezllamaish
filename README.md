@@ -7,6 +7,7 @@
 [ ] Add breakpoint for page header for responsiveness
 [ ] Fix sticky footer
 [ ] Update recipes to real Chez Llama recipes
+[ ] Make images on index figures? With captions?
 [ ] Add sims-related contributors lol
 [ ] Share with Discord and upload under assignments
     [ ] Discord

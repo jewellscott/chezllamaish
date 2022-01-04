@@ -172,17 +172,15 @@ a:hover {
   font-weight: 800;
 }
 
-ul.no-bullet {
+.featured-recipes {
   list-style-type: none;
   padding: 0;
   margin: 0;
 }
 
-.recipes li {
-  background: url('/images/plumbob.png') no-repeat left top;
-  background-size: 1rem;
-  height: 3rem;
-  padding-left: 1.5rem;
+.featured-recipes a {
+  font-size: 2rem;
+  font-weight: 700;
 }
 
 /* sticky footer */
@@ -193,7 +191,6 @@ ul.no-bullet {
   margin: 2rem auto;
 
 }
-
 
 .logo { 
   font-size: 3rem;
