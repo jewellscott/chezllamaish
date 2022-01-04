@@ -20,7 +20,7 @@ A fake and small (but pretty) recipe site.
 - [ ] Fix footer/logo wrapping
 - [X] Center top logo on small screens
 - [X] Reduce recipe font size on small screens
-- [ ] Reduce recipe image size on small screens
+- [X] Reduce recipe image size on small screens
 - [ ] Proofread recipe copy
 - [ ] Share with Discord and upload under assignments
    - [ ] Discord

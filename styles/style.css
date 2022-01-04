@@ -201,7 +201,7 @@ a:hover {
 /* sticky footer */
 
 .site-foot {
-  margin: 4rem;
+  margin-top: 4rem auto;
   text-align: center;
 }
 
@@ -255,6 +255,8 @@ h1.recipe-name {
 /* responsive breakpoints */
 
 @media only screen and (max-width: 600px) {
+  /* index */
+
   h1.site-title {
     font-size: 5rem;
     text-align: center;
@@ -278,6 +280,8 @@ h1.recipe-name {
     font-size: 3.5rem;
     line-height: 3.7rem;
   }
+  
+  /* recipe page */
 
   .recipe-site-head {
     display: block;
