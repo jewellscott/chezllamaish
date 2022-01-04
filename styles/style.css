@@ -263,12 +263,18 @@ h1.recipe-name {
     font-size: 3rem;
   }
 
+  .site-head p {
+    font-size: 1.5rem;
+    line-height: 1.7rem;
+  }
+
   .featured-recipes a {
     font-size: 2rem;
   }
 
   .site-nav h2 {
     font-size: 3.5rem;
+    line-height: 3.7rem;
   }
   
   .recipe-site-head .logo {
