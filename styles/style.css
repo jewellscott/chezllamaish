@@ -276,6 +276,11 @@ h1.recipe-name {
     font-size: 3.5rem;
     line-height: 3.7rem;
   }
+
+  .recipe-site-head {
+    display: block;
+    text-align: center;
+  }
   
   .recipe-site-head .logo {
     float: none;
@@ -284,7 +289,19 @@ h1.recipe-name {
   .recipe-site-head p {
     padding: 0;
     margin-top: 1rem;
+    font-size: 1.3rem;
+    line-height: 1.5rem;
   }
+  
+  h1.recipe-name {
+    font-size: 3rem;
+    line-height: 3rem;
+  }
+
+  .recipe h2 {
+    font-size: 2rem;
+  }
+
 }
 
 @media only screen and (max-width: 960px) {
