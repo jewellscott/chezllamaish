@@ -238,11 +238,12 @@ h1.recipe-name {
   color: rgba(15, 40, 25, 0.989)
 }
 
-.recipe figure {
+.recipe img {
   max-width: 40rem;
   float: left;
   margin: 0 5rem 2.5rem 0;
 }
+
 
 .recipe p {
   margin: 2rem 0 3rem 0;
