@@ -6,6 +6,7 @@
 [ ] Make title on index and pages responsive/shrink
 [ ] Add breakpoint for page header for responsiveness
 [ ] Fix sticky footer
+[ ] Update all pages with an article
 [ ] Update recipes to real Chez Llama recipes
 [ ] Make images on index figures? With captions?
 [ ] Add sims-related contributors lol
