@@ -8,12 +8,12 @@ A fake and small (but pretty) recipe site.
 - [X] Change title across pages
 - [X] Style recipe titles on index
 - [X] Update index to new design (after I learn Flexbox/Grid)
-- [ ] Add margin to the bottom of recipe page images
-- [ ] Make responsive
-   - [ ] Index title breakpoints
-   - [ ] Resized recipe images
-      - [ ] Index
-      - [ ] Recipe pages
+- [X] Add margin to the bottom of recipe page images
+- [X] Make responsive
+   - [X] Index title breakpoints
+   - [X] Resize recipe images
+      - [X] Index
+      - [X] Recipe pages
 - [X] Fix sticky footer
 - [X] Update all pages with an article
 - [ ] Browse CSS and HTML to make sure it's all semantic
