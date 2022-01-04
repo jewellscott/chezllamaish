@@ -221,5 +221,8 @@ h1.recipe-name {
 }
 
 .recipe img {
-  max-width: 45rem;
+  max-width: 40rem;
+  float: left;
+  margin-right: 5rem;
 }
+
