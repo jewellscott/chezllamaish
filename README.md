@@ -1,3 +1,7 @@
+# Description
+
+A fake and small (but pretty) recipe site.
+
 # TODO
 
 - [X] Update header and footer across pages
